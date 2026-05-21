@@ -3,3 +3,4 @@ oracledb
 pandas
 plotly
 matplotlib
+python-dotenv
