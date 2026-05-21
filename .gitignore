@@ -1,0 +1,39 @@
+# ── Sensitive / credentials ──────────────────────────────────────────────────
+.env
+db_configs.json
+
+# ── Backup / draft files ─────────────────────────────────────────────────────
+oracle_sql_plan_dashboard - Copy.py
+oracle_sql_plan_dashboard_backup.py
+oracle_sql_plan_dashboard_backup1.py
+oracle_sql_plan_dashboard_backup_*.py
+oracle_sql_plan_dashboard_kirpal.py
+oracle_sql_plan_dashboard_kirpal_*.py
+oracle_sql_plan_dashboard_kirpal_v2.py
+
+# ── Generated documents ───────────────────────────────────────────────────────
+*.docx
+*.pdf
+
+# ── Misc project files ────────────────────────────────────────────────────────
+query
+stop
+conversation_log_*.md
+test-1.py
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── OS / editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
